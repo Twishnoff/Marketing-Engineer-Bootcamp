@@ -1,6 +1,6 @@
-# GTM Build Tracker: a 30-day template
+# Marketing Engineer Bootcamp
 
-A 30-day plan for a startup or growth marketer who wants to build GTM engineering skills and has not built anything themselves yet. You work through it with your own LLM (Claude, ChatGPT, Gemini or another), and this tracker shows where you are.
+A 30-day plan and progress tracker for a startup or growth marketer who wants to build GTM engineering skills and has not built anything themselves yet. You work through it with your own LLM (Claude, ChatGPT, Gemini or another), and this tracker shows where you are.
 
 By the end you will have built and shipped, on a product of your own:
 
